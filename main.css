@@ -1,0 +1,29 @@
+/*
+Danielle Que
+IntroCS pd6 sec10
+HW03 -- Stuylin'/HTML/Augmenting a Simple Website
+2021-02-09
+
+Credits: All the websites that I linked throughout this site
+*/
+
+/* this will style all h1 elements with color red */
+h1 {color: darkred}
+
+/* this will style all h2 elements with color blue */
+h2 {color: midnightblue}
+
+/* this will style all h1 elements with color red */
+h3 {color: rebeccapurple}
+
+/* this will make the page background black */
+body {background-color: lightslategray}
+
+/* this will style all img elements (pictures/images) with a thick double border of color darkblue */
+img {border: thick double darkslateblue}
+
+/* this will style all p elements (text) with font line-height 1.2, normal font-variant, font-size 16 pixels, and font-family of serif */
+p {font: 1.2 normal 16px serif}
+
+/* this will style all a elements (links) with color chocolate */
+a {color: saddlebrown}
